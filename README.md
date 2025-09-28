@@ -2,7 +2,7 @@
 ## Overview
 My personal Obsidian setup to manage University, Projects and Personal Documentation. 
 
-![Dashboard](dashboard.png)
+![Dashboard](.obsidian/dashboard.png)
 ## Description
 
 These are the plugins and configurations that I use to have a dashboard every time I open Obsidian, to keep track of tasks and goals in a organiced and centraliced way.
@@ -12,8 +12,8 @@ The most relevant plugins that I incorpore are:
 - [Obsidian-minimal-settings](https://github.com/kepano/obsidian-minimal-settings): To keep the minimal theme settings simple
 
 ## Usage
-1. Inside a Folder of Documents create a _.obsidian_ folder and make a ```git clone``` inside that directory
+1. Inside a Folder of Documents make a ```git clone``` inside that directory
 
-2. Create a ```new Vault``` in Obsidian using the container of that folder.
+2. Create a ```new Vault``` in Obsidian using the Documents folder.
 
 The output could be tricky because of the workspace.json file because of the layout info that it contains, some of it to the names of the files in my personal Vault. But after that, everithung is setup
