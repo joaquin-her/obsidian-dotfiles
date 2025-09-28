@@ -1,0 +1,34 @@
+{
+	"nodes":[
+		{"id":"15840d303193cf41","x":-560,"y":280,"width":250,"height":60,"type":"text","text":"Analiticas"},
+		{"id":"3fa1eb823d7d85fb","x":-127,"y":280,"width":250,"height":60,"color":"3","type":"text","text":"API CRUD"},
+		{"id":"52bbc8682f98287e","x":238,"y":280,"width":250,"height":60,"color":"2","type":"text","text":"FLASK"},
+		{"id":"762690ad42567e32","x":-127,"y":460,"width":250,"height":60,"color":"5","type":"text","text":"APP 1"},
+		{"id":"e0086f044584264f","x":-127,"y":600,"width":250,"height":60,"type":"text","text":"Ingreso Manual"},
+		{"id":"dc57ad8889fcb206","x":160,"y":600,"width":250,"height":60,"type":"text","text":"Ingreso Automatico (Correo)"},
+		{"id":"68e1aaf49a34db5c","x":-127,"y":20,"width":250,"height":60,"color":"3","type":"text","text":"BASE DE DATOS"},
+		{"id":"6945bb137bc0fecb","x":-127,"y":-180,"width":250,"height":60,"type":"text","text":"Gastos\n"},
+		{"id":"dd81257ca44460ae","x":238,"y":-40,"width":250,"height":60,"color":"2","type":"text","text":"AWS"},
+		{"id":"d1ff1c7bc359c583","x":238,"y":94,"width":250,"height":60,"color":"2","type":"text","text":"POSTGRES"},
+		{"id":"6d696366e4cc9dfa","x":-560,"y":460,"width":250,"height":60,"color":"6","type":"text","text":"WEB APP\n"},
+		{"id":"cb4509356f9b0a92","x":-560,"y":600,"width":250,"height":60,"color":"4","type":"text","text":"APP 2"},
+		{"id":"137527ecda788fd6","x":620,"y":20,"width":250,"height":60,"color":"2","type":"text","text":"Terraform"}
+	],
+	"edges":[
+		{"id":"718c7f7b31420023","fromNode":"3fa1eb823d7d85fb","fromSide":"right","toNode":"52bbc8682f98287e","toSide":"left"},
+		{"id":"0fea62be7ae6b4ce","fromNode":"68e1aaf49a34db5c","fromSide":"right","toNode":"dd81257ca44460ae","toSide":"left"},
+		{"id":"91494bf562f907a3","fromNode":"3fa1eb823d7d85fb","fromSide":"top","toNode":"68e1aaf49a34db5c","toSide":"bottom"},
+		{"id":"0e31989d780221bd","fromNode":"68e1aaf49a34db5c","fromSide":"bottom","toNode":"3fa1eb823d7d85fb","toSide":"top"},
+		{"id":"ce4c5f9a6a435499","fromNode":"15840d303193cf41","fromSide":"right","toNode":"3fa1eb823d7d85fb","toSide":"left"},
+		{"id":"81d9fa79f073fa5e","fromNode":"762690ad42567e32","fromSide":"top","toNode":"3fa1eb823d7d85fb","toSide":"bottom"},
+		{"id":"65fdb75503bc7a2f","fromNode":"e0086f044584264f","fromSide":"top","toNode":"762690ad42567e32","toSide":"bottom"},
+		{"id":"521b99ec6f1d2664","fromNode":"dc57ad8889fcb206","fromSide":"top","toNode":"762690ad42567e32","toSide":"right"},
+		{"id":"95c2f8e0b1cc83cd","fromNode":"68e1aaf49a34db5c","fromSide":"top","toNode":"6945bb137bc0fecb","toSide":"bottom"},
+		{"id":"d9b8e3bade3efb93","fromNode":"68e1aaf49a34db5c","fromSide":"right","toNode":"d1ff1c7bc359c583","toSide":"left"},
+		{"id":"b45b5806d56fc5ee","fromNode":"cb4509356f9b0a92","fromSide":"top","toNode":"6d696366e4cc9dfa","toSide":"bottom"},
+		{"id":"610ee717a0f8a8e8","fromNode":"762690ad42567e32","fromSide":"left","toNode":"6d696366e4cc9dfa","toSide":"right"},
+		{"id":"b9216ada8128b936","fromNode":"cb4509356f9b0a92","fromSide":"left","toNode":"15840d303193cf41","toSide":"left"},
+		{"id":"2108c975b0a7cad6","fromNode":"dd81257ca44460ae","fromSide":"right","toNode":"137527ecda788fd6","toSide":"left"},
+		{"id":"05ac301991fa3bf2","fromNode":"d1ff1c7bc359c583","fromSide":"right","toNode":"137527ecda788fd6","toSide":"left"}
+	]
+}

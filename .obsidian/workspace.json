@@ -21,7 +21,7 @@
                     "file": "kanban.canvas",
                     "viewState": {
                       "x": -258.1193344533181,
-                      "y": 174.60912039979831,
+                      "y": 442.1808237888711,
                       "zoom": -0.26158849261160355
                     }
                   },
@@ -47,12 +47,14 @@
                 "id": "59901730bfad45c7",
                 "type": "leaf",
                 "state": {
-                  "type": "pdf",
+                  "type": "markdown",
                   "state": {
-                    "file": "BookBank/Informatica/Introduction_to_algorithms-3rd Edition.pdf"
+                    "file": "2 - Materias Facultad/2C2025.md",
+                    "mode": "source",
+                    "source": false
                   },
-                  "icon": "lucide-file-text",
-                  "title": "Introduction_to_algorithms-3rd Edition"
+                  "icon": "lucide-file",
+                  "title": "2C2025"
                 }
               },
               {
@@ -70,7 +72,7 @@
                 }
               }
             ],
-            "currentTab": 3
+            "currentTab": 2
           },
           {
             "id": "a761b390f47f3da2",
@@ -121,8 +123,8 @@
                       "state": {
                         "file": "kanban.canvas",
                         "viewState": {
-                          "x": -164.32261827612317,
-                          "y": 227.18666545261564,
+                          "x": -140.92990821337855,
+                          "y": 219.38916153296913,
                           "zoom": -0.6999999809265132
                         }
                       },
@@ -295,16 +297,18 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "a961ab65c3924f6d",
+  "active": "59901730bfad45c7",
   "lastOpenFiles": [
-    "4 - Proyectos/Lively wallpapers.md",
+    "kanban.canvas",
+    "2 - Materias Facultad/2C2025.md",
+    "Main.md",
+    "BookBank/Informatica/Introduction_to_algorithms-3rd Edition.pdf",
     "2 - Materias Facultad/2C2025/Sistemas Operativos/TP- SHELL.md",
+    "4 - Proyectos/Lively wallpapers.md",
     "2 - Materias Facultad/2C2025/Sistemas Operativos/Lab-Fork.md",
     "2 - Materias Facultad/2C2025/Teoria De Algoritmos/files/11 - Programación Dinámica IV.pdf",
     "2 - Materias Facultad/2C2025/Ingenieria de software I/TP 2c2025 - Sistema comedor.pdf",
     "2 - Materias Facultad/2C2025/Teoria De Algoritmos/Teoria De Algoritmos.md",
-    "BookBank/Informatica/Introduction_to_algorithms-3rd Edition.pdf",
-    "kanban.canvas",
     "2 - Materias Facultad/2C2025/Ingenieria de software I/diapos/Scrum.pdf",
     "2 - Materias Facultad/2C2025/Ingenieria de software I/diapos/Historias de Usuario.pdf",
     "2 - Materias Facultad/2C2025/Ingenieria de software I/diapos/Modelo de Dominio.pdf",
@@ -334,9 +338,6 @@
     "Untitled.md",
     "Kubernetes.md",
     "2 - Materias Facultad/2C2025/Teoria De Algoritmos/Primer parcial tda.md",
-    "2 - Materias Facultad/2C2025/Ingenieria de software I/Ingenieria de Software I _init_.md",
-    "Main.md",
-    "2 - Materias Facultad/2C2025.md",
     "2 - Materias Facultad/2C2025/Ingenieria de software I/diapos/Ejemplo modelo de dominio.svg",
     "2 - Materias Facultad/2C2025/Ingenieria de software I/Ejemplo modelo de dominio.svg",
     "My App Diagram.canvas",

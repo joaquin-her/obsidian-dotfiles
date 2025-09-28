@@ -1,0 +1,11 @@
+
+- Paciente
+- Ordenado
+- Curioso
+- Centrado en el cliente
+- Servicial
+- Respetuoso
+- Bilingue
+- Open-minded
+- Colaborativo
+- Bueno comunicando
