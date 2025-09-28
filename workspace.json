@@ -1,0 +1,353 @@
+{
+  "main": {
+    "id": "1590b3e08d0ef18f",
+    "type": "split",
+    "children": [
+      {
+        "id": "be5d524b0514eab4",
+        "type": "split",
+        "children": [
+          {
+            "id": "ff3fa96c71b78302",
+            "type": "tabs",
+            "dimension": 64.91683991683992,
+            "children": [
+              {
+                "id": "9ede1480e4c2a4ee",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "kanban.canvas",
+                    "viewState": {
+                      "x": -258.1193344533181,
+                      "y": 174.60912039979831,
+                      "zoom": -0.26158849261160355
+                    }
+                  },
+                  "icon": "lucide-layout-dashboard",
+                  "title": "kanban"
+                }
+              },
+              {
+                "id": "e51f5d26fc9348bd",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2 - Materias Facultad/2C2025/Teoria De Algoritmos/Teoria De Algoritmos.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Teoria De Algoritmos"
+                }
+              },
+              {
+                "id": "59901730bfad45c7",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "BookBank/Informatica/Introduction_to_algorithms-3rd Edition.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "Introduction_to_algorithms-3rd Edition"
+                }
+              },
+              {
+                "id": "a961ab65c3924f6d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2 - Materias Facultad/2C2025/Sistemas Operativos/TP- SHELL.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "TP- SHELL"
+                }
+              }
+            ],
+            "currentTab": 3
+          },
+          {
+            "id": "a761b390f47f3da2",
+            "type": "split",
+            "dimension": 35.08316008316008,
+            "children": [
+              {
+                "id": "32341cf1716548c2",
+                "type": "tabs",
+                "dimension": 46.39344262295082,
+                "children": [
+                  {
+                    "id": "3b192dfe3f4ad12c",
+                    "type": "leaf",
+                    "state": {
+                      "type": "graph",
+                      "state": {},
+                      "icon": "lucide-git-fork",
+                      "title": "Graph view"
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "3971e5933c58a8f0",
+                "type": "tabs",
+                "dimension": 53.60655737704918,
+                "children": [
+                  {
+                    "id": "0bc297b75bbe9545",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "3 - Notas Varias/Quotes.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "Quotes"
+                    }
+                  },
+                  {
+                    "id": "0ed8dd5ee07e4430",
+                    "type": "leaf",
+                    "state": {
+                      "type": "canvas",
+                      "state": {
+                        "file": "kanban.canvas",
+                        "viewState": {
+                          "x": -164.32261827612317,
+                          "y": 227.18666545261564,
+                          "zoom": -0.6999999809265132
+                        }
+                      },
+                      "icon": "lucide-layout-dashboard",
+                      "title": "kanban"
+                    }
+                  },
+                  {
+                    "id": "cd9e27fae6b440c3",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Main.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "Main"
+                    }
+                  }
+                ],
+                "currentTab": 1
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a632b0eda9099de9",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2d52138b6d17e26",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4afa5605a362e19a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTime",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7519bc41189c550c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1001ac75f835a158",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 311.5124969482422
+  },
+  "right": {
+    "id": "7158d6c23db6a433",
+    "type": "split",
+    "children": [
+      {
+        "id": "84302890f347cc48",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7f0505f92feda8d7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Paradigmas de Programacion/Segundo TP.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Segundo TP"
+            }
+          },
+          {
+            "id": "50421e56e4f1dad6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Paradigmas de Programacion/Segundo TP.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Segundo TP"
+            }
+          },
+          {
+            "id": "fe7f3a67ae1182c5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2d5735b1b2b3cc9b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Paradigmas de Programacion/Segundo TP.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Segundo TP"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "remotely-save:Remotely Save": false
+    }
+  },
+  "active": "a961ab65c3924f6d",
+  "lastOpenFiles": [
+    "4 - Proyectos/Lively wallpapers.md",
+    "2 - Materias Facultad/2C2025/Sistemas Operativos/TP- SHELL.md",
+    "2 - Materias Facultad/2C2025/Sistemas Operativos/Lab-Fork.md",
+    "2 - Materias Facultad/2C2025/Teoria De Algoritmos/files/11 - Programación Dinámica IV.pdf",
+    "2 - Materias Facultad/2C2025/Ingenieria de software I/TP 2c2025 - Sistema comedor.pdf",
+    "2 - Materias Facultad/2C2025/Teoria De Algoritmos/Teoria De Algoritmos.md",
+    "BookBank/Informatica/Introduction_to_algorithms-3rd Edition.pdf",
+    "kanban.canvas",
+    "2 - Materias Facultad/2C2025/Ingenieria de software I/diapos/Scrum.pdf",
+    "2 - Materias Facultad/2C2025/Ingenieria de software I/diapos/Historias de Usuario.pdf",
+    "2 - Materias Facultad/2C2025/Ingenieria de software I/diapos/Modelo de Dominio.pdf",
+    "2 - Materias Facultad/2C2025/Ingenieria de software I/diapos/Jill-Nicola-03-Object-Modeling.pdf",
+    "2 - Materias Facultad/2C2025/Ingenieria de software I/diapos/Scrum Ceremonies.pdf",
+    "2 - Materias Facultad/2C2025/Ingenieria de software I/diapos/Atributos de Calidad.pdf",
+    "2 - Materias Facultad/2C2025/Ingenieria de software I/diapos/Ejemplo modelo 4+1.pdf",
+    "2 - Materias Facultad/2C2025/Ingenieria de software I/Caso practico de dominio/modelo de dominio- clase.png",
+    "2 - Materias Facultad/2C2025/Ingenieria de software I/Caso practico de dominio/Caso de practica - Agencia aseguradora.md",
+    "2 - Materias Facultad/2C2025/Ingenieria de software I/Caso practico de dominio/modelo de dominio - grupo.png",
+    "2 - Materias Facultad/2C2025/Sistemas Operativos/Sistemas Operativos _init_.md",
+    "2 - Materias Facultad/2C2025/Taller de Programacion/TP1-Taller.md",
+    "2 - Materias Facultad/2C2025/Teoria De Algoritmos/Programacion Dinamica.md",
+    "2 - Materias Facultad/2C2025/Teoria De Algoritmos/TP2-TDA.md",
+    "2 - Materias Facultad/2C2025/Teoria De Algoritmos/TP1-TDA.md",
+    "2 - Materias Facultad/2C2025/Teoria De Algoritmos/Algoritmos Greedy.md",
+    "2 - Materias Facultad/2C2025/Teoria De Algoritmos/diapos - tda.md",
+    "2 - Materias Facultad/2C2025/Teoria De Algoritmos/files/Mochila Excel.png",
+    "2 - Materias Facultad/2C2025/Taller de Programacion/Taller De Programacion _init_.md",
+    "2 - Materias Facultad/2C2025/Taller de Programacion/Semana 5.md",
+    "2 - Materias Facultad/2C2025/Taller de Programacion/Elixir.md",
+    "2 - Materias Facultad/2C2025/Ingenieria de software I/TP2.md",
+    "2 - Materias Facultad/2C2025/Sistemas Operativos/diapos - fisop.md",
+    "2 - Materias Facultad/2C2025/Taller de Programacion/Semana 2.md",
+    "Untitled 1.md",
+    "Proyectos realizados.md",
+    "Untitled.md",
+    "Kubernetes.md",
+    "2 - Materias Facultad/2C2025/Teoria De Algoritmos/Primer parcial tda.md",
+    "2 - Materias Facultad/2C2025/Ingenieria de software I/Ingenieria de Software I _init_.md",
+    "Main.md",
+    "2 - Materias Facultad/2C2025.md",
+    "2 - Materias Facultad/2C2025/Ingenieria de software I/diapos/Ejemplo modelo de dominio.svg",
+    "2 - Materias Facultad/2C2025/Ingenieria de software I/Ejemplo modelo de dominio.svg",
+    "My App Diagram.canvas",
+    "2 - Materias Facultad/1C2025/Orga del Computador/old/files/Pasted image 20241113145726.png",
+    "2 - Materias Facultad/1C2025/Orga del Computador/old/files/Pasted image 20241030211030.png",
+    "2 - Materias Facultad/1C2025/Orga del Computador/files/Pasted image 20250408085013.png",
+    "2 - Materias Facultad/1C2025/Orga del Computador/files/parciales/ejemplo_parcial.png",
+    "shared/Pasted image 20241122020802.png",
+    "2 - Materias Facultad/1C2025/Paradigmas de Programacion/Gimnasio DC canvas.canvas",
+    "Materias Facultad/Paradigmas de Programacion/Gimnasio DC canvas.canvas",
+    "Paradigmas de Programacion/Gimnasio DC canvas.canvas",
+    "test.canvas"
+  ]
+}
